@@ -1,10 +1,10 @@
 body {
 	background-image: url("../images/aircraft-513641_1920.jpg"); 
-	background-repeat: no-repeat;
 	background-size: 1750px 1200px;
 	background-color: #FFB663;
 	font-family:helvetica;
-	background-position: fixed;
+	background-attachment: fixed;
+  	background-position: center;
 	}
 	h1 {
 		font-family:zapfino;
