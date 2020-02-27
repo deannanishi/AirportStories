@@ -21,8 +21,7 @@ body {
 		color: cyan;
 	}
 	.text_format1 {
-		margin-left: 60%;
-		margin-bottom: 15px;
+		margin-left: 10%;
 	}
 	.text_format2 {
 		opacity: 1.0;
@@ -42,7 +41,7 @@ body {
 		border-right: 40px solid black;
 		margin-right: 15%;
 		margin-left: 15%;
-		float: left;
+		margin-bottom: 15px;
 	}
 	.fine_print {
 		font-size: 12px;
