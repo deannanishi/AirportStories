@@ -1,0 +1,52 @@
+body {
+	background-image: url("../images/aircraft-513641_1920.jpg"); 
+		background-repeat: no-repeat;
+		background-size: 1750px 1200px;
+	background-color: #FFB663;
+	font-family:helvetica;
+	}
+	h1 {
+		font-family:zapfino;
+		font-size: 80px;
+		color: black;
+		text-align: center;
+		opacity: 80%;
+	}
+	h2 {
+		margin-left: 40px;
+		font-size: 35px;
+	}
+	a {
+		color: cyan;
+	}
+	.text_format1 {
+		margin-left: 40px;
+		margin-right: 1200px;
+	}
+	.text_format2 {
+		opacity: 1.0;
+
+	}
+	.text_format3 {
+		margin-left: 20px;
+		text-align: left;
+	}
+	.behind_text_box {
+		background-color: black;
+		opacity: 0.7;
+		color: #FFFACD;
+		border-left: 40px solid black;
+		border-top: 15px solid black;
+		border-bottom: 15px solid black;
+		border-right: 40px solid black;
+		margin-right: 600px;
+		margin-left: 40px;
+	}
+	.fine_print {
+		font-size: 12px;
+	}
+footer{
+	text-align: right;
+	margin-right: 20px;
+	color: white;
+	}
